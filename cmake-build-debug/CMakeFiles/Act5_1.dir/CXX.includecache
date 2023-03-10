@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/maugarcia/Documents/Universidad/tercer semestre/Analisis de requerimiento de software/Coding/Act 5.2 - Actividad Integral sobre el uso de códigos hash (Evidencia Competencia)/HashTable.h
+list
+-
+iostream
+-
+algorithm
+-
+sstream
+-
+string
+-
+iomanip
+-
+IP.h
+/Users/maugarcia/Documents/Universidad/tercer semestre/Analisis de requerimiento de software/Coding/Act 5.2 - Actividad Integral sobre el uso de códigos hash (Evidencia Competencia)/IP.h
+math.h
+-
+
+/Users/maugarcia/Documents/Universidad/tercer semestre/Analisis de requerimiento de software/Coding/Act 5.2 - Actividad Integral sobre el uso de códigos hash (Evidencia Competencia)/IP.h
+iostream
+-
+sstream
+-
+string
+-
+iomanip
+-
+
+/Users/maugarcia/Documents/Universidad/tercer semestre/Analisis de requerimiento de software/Coding/Act 5.2 - Actividad Integral sobre el uso de códigos hash (Evidencia Competencia)/main.cpp
+iostream
+-
+HashTable.h
+/Users/maugarcia/Documents/Universidad/tercer semestre/Analisis de requerimiento de software/Coding/Act 5.2 - Actividad Integral sobre el uso de códigos hash (Evidencia Competencia)/HashTable.h
+iostream
+-
+iostream
+-
+fstream
+-
+IP.h
+/Users/maugarcia/Documents/Universidad/tercer semestre/Analisis de requerimiento de software/Coding/Act 5.2 - Actividad Integral sobre el uso de códigos hash (Evidencia Competencia)/IP.h
+

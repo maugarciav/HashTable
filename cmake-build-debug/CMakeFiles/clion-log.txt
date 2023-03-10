@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" "/Users/maugarcia/Documents/Universidad/tercer semestre/Analisis de requerimiento de software/Coding/Act 5.2 - Actividad Integral sobre el uso de códigos hash (Evidencia Competencia)"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/maugarcia/Documents/Universidad/tercer semestre/Analisis de requerimiento de software/Coding/Act 5.2 - Actividad Integral sobre el uso de códigos hash (Evidencia Competencia)/cmake-build-debug
